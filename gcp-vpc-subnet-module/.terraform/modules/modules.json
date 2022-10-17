@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc","Source":"file:///home/arunkumar/terraform-modules/gcp-vpc-subnet-module/arun","Dir":".terraform/modules/vpc"},{"Key":"vpc-subnet","Source":"../gcp-vpc-subnet-module/arun","Dir":"../gcp-vpc-subnet-module/arun"}]}
